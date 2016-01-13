@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    background-color: #99ff99;
+    width: 500px;
+}
+
+p {
+    background-color: rgb(255,0,255);
+}
