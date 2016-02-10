@@ -1,12 +1,45 @@
 body {
-    background-color: lightblue;
+    background-image: url("http://us.123rf.com/450wm/hfng/hfng0903/hfng090300008/4478496-colorful-multi-color-seamless-square-tiles-for-bathroom-kitchen-or-background-use.jpg?ver=6");
 }
 
 h1 {
-    background-color: #99ff99;
-    width: 500px;
+   color: white;
+    text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; 
+    
+}
+
+.colossal-title{
+    color: blue;
+}
+
+.adam-title{
+    color: purple;
+}
+
+.clockwork-title{
+    color: yellow;
+}
+
+.backgroundcoloroftitle{  
+    background-color: red;
+    width: 328px;
+}
+
+.backgroundcolorofpage1{  
+    background-color: yellow;
+    width: 292px;
+}
+
+.backgroundcolorofpage2{  
+    background-color: lime;
+    width: 316px;
 }
 
 p {
-    background-color: rgb(255,0,255);
+    background-color: cyan;
+    width: 306px;
 }
